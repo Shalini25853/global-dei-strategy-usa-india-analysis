@@ -1,12 +1,12 @@
 # global-dei-strategy-usa-india-analysis
 Comparative strategy analysis of Diversity, Equity, and Inclusion (DEI) frameworks in the USA and India, exploring legal, cultural, and organizational perspectives to drive inclusive leadership.
-# 🌍 Global DEI Strategy – Comparative Analysis: USA vs India
+#  Global DEI Strategy – Comparative Analysis: USA vs India
 
 This project provides a strategic comparison of **Diversity, Equity, and Inclusion (DEI)** approaches in the **United States** and **India**. It examines the legal frameworks, cultural contexts, and business motivations that shape DEI initiatives in both regions, while offering recommendations for global companies operating across diverse environments.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To help multinational organizations align global DEI policies with local realities by:
 - Analyzing **regulatory environments** (EEOC, POSH Act, etc.)
@@ -16,7 +16,7 @@ To help multinational organizations align global DEI policies with local realiti
 
 ---
 
-## 🧠 Key Frameworks Used
+##  Key Frameworks Used
 
 - **Hofstede's Cultural Dimensions**
 - **Stakeholder Theory**
@@ -25,7 +25,7 @@ To help multinational organizations align global DEI policies with local realiti
 
 ---
 
-## 🔍 Key Takeaways
+## Key Takeaways
 
 ### 🇺🇸 United States
 - Strong emphasis on **compliance-driven DEI** (Title VII, ADA)
@@ -39,33 +39,33 @@ To help multinational organizations align global DEI policies with local realiti
 
 ---
 
-## 📊 Business Value
+##  Business Value
 
 - DEI boosts **innovation (19%)**, **profitability (36%)**, and **employee retention**
 - Companies with inclusive cultures are more likely to attract global talent and maintain ESG performance
 
 ---
 
-## 📁 Files Included
+##  Files Included
 
 - `Global Management A1 Report.pdf` – Full strategic report and citations
 
 ---
 
-## 🚫 Confidentiality Note
+##  Confidentiality Note
 
-> 📌 Some organizational case studies referenced in the report are paraphrased or anonymized due to non-disclosure agreements.
+>  Some organizational case studies referenced in the report are paraphrased or anonymized due to non-disclosure agreements.
 
 ---
 
-## 🏷️ Tags
+##  Tags
 
 `#dei` `#organizational-strategy` `#global-business`  
 `#usa-vs-india` `#diversity` `#policy-analysis` `#stakeholder-management`
 
 ---
 
-## ✍️ Author
+## Author
 
 **Shalini James Paulraj**  
 Graduate Student – Business Analytics & International Business  
